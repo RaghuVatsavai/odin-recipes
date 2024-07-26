@@ -1,6 +1,6 @@
 # odin-recipes
 
-This project in a recipe book with three recipes.
+This project is a recipe book with three recipes that I have completed as a part of The Odin Project.
 
 The skills I have demonstrated by doing this project:
 - Basic HTML
