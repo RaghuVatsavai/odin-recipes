@@ -1,0 +1,42 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    background-color: #01242e;
+    color: white;
+    font-family: "Verdana", sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+ul a {
+    color: #8cc2dd;
+    font-size: 25px;
+}
+
+h2 {
+    color: #7730eb;
+    font-size: 36px;
+    text-align: left;
+}
+
+ul li,
+ol li {
+    margin-bottom: 5px;
+}
+
+.description,
+.ingredients,
+.steps {
+    text-align: left;
+    font-family: "Geneva", sans-serif;
+    font-size: 25px;
+}
+
+
