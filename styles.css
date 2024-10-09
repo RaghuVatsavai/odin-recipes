@@ -1,4 +1,7 @@
-h1 {
+.title {
+    background: #2a3133;
+    padding: 10px;
+    margin: 10px 100px;
     font-size: 50px;
     text-align: center;
 }
@@ -10,7 +13,9 @@ body {
     text-align: center;
 }
 
-ul {
+.recipe-list {
+    background-color: #2a3133;
+    margin: 20px 100px;
     list-style-position: inside;
     text-align: center;
 }
